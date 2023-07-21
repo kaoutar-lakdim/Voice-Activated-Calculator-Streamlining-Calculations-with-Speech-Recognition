@@ -66,6 +66,7 @@ pip install numpy scipy librosa python_speech_features fastdtw tkinter
 
 <br>
 <br>
+
 ### The result
 
 <img width="374" alt="Screenshot 2023-07-15 at 12 55 10" src="https://github.com/Yassine-Squalli-Houssaini/Voice-Activated-Calculator-Streamlining-Calculations-with-Speech-Recognition/assets/127676452/13f18246-7276-484c-bc29-4742ea8716b3">
