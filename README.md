@@ -67,7 +67,6 @@ pip install numpy scipy librosa python_speech_features fastdtw tkinter
 
 
 
-
 ## Conclusion
 
 The Voice-Activated Calculator represents a significant advancement in simplifying mathematical calculations through speech recognition. By combining audio processing techniques, MFCC feature extraction, and DTW-based comparison, the program accurately recognizes spoken digits and operations, allowing for efficient and error-free calculations.
