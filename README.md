@@ -23,6 +23,7 @@ By leveraging the capabilities of the Python programming language and various li
 
 To run the Voice-Activated Calculator, ensure that you have the following dependencies installed:
 
+
 - Python (version 3.6 or higher)
 - NumPy
 - SciPy
